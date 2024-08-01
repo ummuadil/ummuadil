@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ummuadil
 - 👀 I’m interested in 3D reconstruction using single images
-- 🌱 I’m currently learning PyTorch
+- 🌱 I’m currently teaching Computer Science and AI Programmes 
 - 💞️ I’m looking to collaborate on Comp Vision Projects
 - 📫 My mail is ayuniarti@gmail.com
 
